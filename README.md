@@ -1,2 +1,2 @@
 # -cour-md2-solution
-## Output [CLICK HERE](https://akutkarsh.github.com/-cour-md2-solution/index.html)
+## Output [CLICK HERE](https://akutkarsh.github.io/-cour-md2-solution/)
